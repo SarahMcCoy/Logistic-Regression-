@@ -1,5 +1,5 @@
 # Logistic-Regression-
-
+## The First Project 
 
 ### The Challenge 
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
@@ -8,6 +8,15 @@ While there was some element of luck involved in surviving, it seems some groups
 In this challenge, we ask you to build a predictive model that answers the question: “what sorts of people were more likely to survive?” using passenger data (ie name, age, gender, socio-economic class, etc).
 
 *The overall goal of the project is to Improve Your Score
+
+### Project at a Glance: 
+- Objective: use machine learning to create a model that predicts which passengers survived the Titanic shipwreck.
+- Project Tools: 
+- Data: 
+
+## The Second Project
+
+### The Challenge
 
 ### Project at a Glance: 
 - Objective: use machine learning to create a model that predicts which passengers survived the Titanic shipwreck.
