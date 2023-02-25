@@ -11,18 +11,25 @@ In this challenge, we ask you to build a predictive model that answers the quest
 
 ### Project at a Glance: 
 - Objective: use machine learning to create a model that predicts which passengers survived the Titanic shipwreck.
-- Project Tools: 
+- Project Tools: Python (libraries: Numpy, Pandas, Scikit-learn) Data Visualization Tools: Matplotlib and Seaborn
 - Data: 
+
+### Tasks 
+1. Get Data
+2. Exploratory Data Analysis 
+3. Data Cleaning 
+4. Create a Logistic Regression 
+5. Predict and Evaluate 
 
 ## The Second Project
 
 ### Project at a Glance: 
 - Objective: create a model that will predict whether or not they will click on an ad based off the features of that user.
-- Project Tools: 
+- Project Tools: Python (libraries: Numpy, Pandas, Scikit-learn) Data Visualization Tools: Matplotlib and Seaborn
 - Data: 
 
 ### Tasks 
 1. Get Data 
 2. Exploratory Data Analysis 
 3. Logistic Regression 
-4. Predictions and Evaluations 
+4. Predict and Evaluate 
