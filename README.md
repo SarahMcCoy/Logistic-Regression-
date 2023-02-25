@@ -16,9 +16,13 @@ In this challenge, we ask you to build a predictive model that answers the quest
 
 ## The Second Project
 
-### The Challenge
-
 ### Project at a Glance: 
-- Objective: use machine learning to create a model that predicts which passengers survived the Titanic shipwreck.
+- Objective: create a model that will predict whether or not they will click on an ad based off the features of that user.
 - Project Tools: 
 - Data: 
+
+### Tasks 
+1. Get Data 
+2. Exploratory Data Analysis 
+3. Logistic Regression 
+4. Predictions and Evaluations 
