@@ -21,11 +21,13 @@ In this challenge, we ask you to build a predictive model that answers the quest
 4. Create a Logistic Regression 
 5. Predict and Evaluate 
 
+
 ## The Second Project
 
 ### Project at a Glance: 
 - Objective: create a model that will predict whether or not they will click on an ad based off the features of that user.
 - Project Tools: Python (libraries: Numpy, Pandas, Scikit-learn) Data Visualization Tools: Matplotlib and Seaborn
+- In this project we will be working with a fake advertising data set, indicating whether or not a particular internet user clicked on an Advertisement. 
 
 ### Tasks 
 1. Get Data 
